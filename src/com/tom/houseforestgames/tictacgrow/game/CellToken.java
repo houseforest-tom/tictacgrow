@@ -24,7 +24,6 @@ import org.andengine.ui.activity.BaseGameActivity;
 
 import android.util.Log;
 
-import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity.PlayerIndex;
 import com.tom.houseforestgames.tictacgrow.game.Gameboard.CellLocation;
 import com.tom.houseforestgames.tictacgrow.util.Utility;

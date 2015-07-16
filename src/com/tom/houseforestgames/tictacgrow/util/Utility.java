@@ -25,13 +25,10 @@ import org.andengine.opengl.texture.atlas.bitmap.BitmapTextureAtlasTextureRegion
 import org.andengine.opengl.texture.region.ITextureRegion;
 import org.andengine.ui.activity.BaseGameActivity;
 
-import android.app.Activity;
 import android.app.AlertDialog;
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
 
-import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity.RenderSurfaceRatio;
 
 public class Utility

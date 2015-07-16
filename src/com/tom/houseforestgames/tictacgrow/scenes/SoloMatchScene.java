@@ -18,9 +18,8 @@ import java.util.ArrayList;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity.PlayerIndex;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity.SFXName;
-import com.tom.houseforestgames.tictacgrow.game.CellToken;
-import com.tom.houseforestgames.tictacgrow.game.Gameboard;
 import com.tom.houseforestgames.tictacgrow.game.CellToken.CellTokenType;
+import com.tom.houseforestgames.tictacgrow.game.Gameboard;
 import com.tom.houseforestgames.tictacgrow.game.Gameboard.CellLocation;
 import com.tom.houseforestgames.tictacgrow.game.Gameboard.SquareState;
 

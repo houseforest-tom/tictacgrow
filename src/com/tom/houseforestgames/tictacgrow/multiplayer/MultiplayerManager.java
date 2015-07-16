@@ -17,14 +17,9 @@ package com.tom.houseforestgames.tictacgrow.multiplayer;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.UUID;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import android.util.Log;
 
-import com.google.android.gms.internal.ml;
 import com.shephertz.app42.paas.sdk.android.App42API;
 import com.shephertz.app42.paas.sdk.android.App42CallBack;
 import com.shephertz.app42.paas.sdk.android.App42Exception;
@@ -34,7 +29,6 @@ import com.shephertz.app42.paas.sdk.android.user.User.Profile;
 import com.shephertz.app42.paas.sdk.android.user.User.UserGender;
 import com.shephertz.app42.paas.sdk.android.user.UserService;
 import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity;
-import com.tom.houseforestgames.tictacgrow.TicTacGrowActivity.PlayerIndex;
 import com.tom.houseforestgames.tictacgrow.util.Utility;
 
 public class MultiplayerManager 
